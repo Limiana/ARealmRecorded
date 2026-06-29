@@ -12,6 +12,5 @@
     "utility"
   ],
   "InternalName": "ARealmRecorded",
-  "AssemblyVersion": "9.9.9.9",
-  "DalamudApiLevel": 15
+  "AssemblyVersion": "9.9.9.9"
 }
